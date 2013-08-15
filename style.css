@@ -46,10 +46,11 @@ ul {
 	width: 17%;
 	margin: 0.2%;
 	padding: 0.8%;
+	padding-top: 2%;
 	display: inline-block;
 	vertical-align: top;
 	background-image: url(frost50.png);
-	height: 14em;
+	height: 20em;
 	text-align: center;
 	margin-bottom: 0.8%;
 }
